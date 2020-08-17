@@ -23,7 +23,7 @@ In the folder "csharp_solution/sumskill_excel/sumskill_excel/bin/Release" you fi
 ---User-Descprition---
 The program requests the parameters "Skill", "Year" and "Month" one after another.
 You have to enter each of them.
-If you enter a string instead of a number it request the parameter again.
+If you enter a string instead of a number for year or month, it request the parameter again.
 If he couldn't find a column with the entered date, then the program notifies the user. 
 If everything is fine you receive the skill result.
 Finally you can quit the programm by entering "q" 
