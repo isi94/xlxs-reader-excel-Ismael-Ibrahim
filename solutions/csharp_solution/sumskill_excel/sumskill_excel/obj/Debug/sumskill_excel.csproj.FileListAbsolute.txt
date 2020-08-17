@@ -1,0 +1,17 @@
+C:\Users\skstu\source\repos\sumskill_excel\sumskill_excel\bin\Debug\sumskill_excel.exe.config
+C:\Users\skstu\source\repos\sumskill_excel\sumskill_excel\bin\Debug\sumskill_excel.exe
+C:\Users\skstu\source\repos\sumskill_excel\sumskill_excel\bin\Debug\sumskill_excel.pdb
+C:\Users\skstu\source\repos\sumskill_excel\sumskill_excel\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\skstu\source\repos\sumskill_excel\sumskill_excel\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\skstu\source\repos\sumskill_excel\sumskill_excel\bin\Debug\NPOI.dll
+C:\Users\skstu\source\repos\sumskill_excel\sumskill_excel\bin\Debug\NPOI.OOXML.dll
+C:\Users\skstu\source\repos\sumskill_excel\sumskill_excel\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\skstu\source\repos\sumskill_excel\sumskill_excel\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\skstu\source\repos\sumskill_excel\sumskill_excel\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\skstu\source\repos\sumskill_excel\sumskill_excel\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\skstu\source\repos\sumskill_excel\sumskill_excel\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\skstu\source\repos\sumskill_excel\sumskill_excel\obj\Debug\sumskill_excel.csprojAssemblyReference.cache
+C:\Users\skstu\source\repos\sumskill_excel\sumskill_excel\obj\Debug\sumskill_excel.csproj.CoreCompileInputs.cache
+C:\Users\skstu\source\repos\sumskill_excel\sumskill_excel\obj\Debug\sumskill_excel.csproj.CopyComplete
+C:\Users\skstu\source\repos\sumskill_excel\sumskill_excel\obj\Debug\sumskill_excel.exe
+C:\Users\skstu\source\repos\sumskill_excel\sumskill_excel\obj\Debug\sumskill_excel.pdb
