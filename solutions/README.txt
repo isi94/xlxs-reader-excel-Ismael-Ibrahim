@@ -7,7 +7,7 @@ For the python script the xlrd module is used.
 It can be downloaded via the pip tool with the command
 "pip install xlrd"
 
-The xlsx file must be located in the same folder
+The Python file is in the folder "python_solution" the xlsx file must be located in the same folder.
 Then you can run the program with Python
 "excel_read.py"
 
@@ -16,8 +16,8 @@ Then you can run the program with Python
 The C# solution runs with the NPOI package which can be installed with the NuGet package manager.
 It is already in the project folder.
 The xlsx file must be located 2 folders higher.
-In the folder "sumskill_excel/sumskill_excel/bin/Release" you find the runnable
-sumskill_excel.exe
+In the folder "csharp_solution/sumskill_excel/sumskill_excel/bin/Release" you find the runnable file
+"sumskill_excel.exe"
 
 
 ---User-Descprition---
